@@ -1,0 +1,1060 @@
+{
+  "academic_year": "2025/2026",
+  "semester": "GANJIL",
+  "curriculum": "2025",
+  "classes": [
+    {
+      "class_name": "1A-D4",
+      "schedule": [
+        {
+          "day": "SENIN",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "TE",
+              "lecturer_code": "KO003N",
+              "lecturer": "Bambang Wisnuadhi",
+              "room": "D223-Kelas"
+            },
+            {
+              "time": "08.40-09.30",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "TE",
+              "lecturer_code": "KO002N",
+              "lecturer": "Ani Rahmani",
+              "room": "D223-Kelas"
+            },
+            {
+              "time": "09.50-10.40",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "TE",
+              "lecturer_code": "KO002N",
+              "lecturer": "Ani Rahmani",
+              "room": "D223-Kelas"
+            },
+            {
+              "time": "10.40-11.30",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO079N",
+              "lecturer": "Wendi Wirasta",
+              "room": "D115-Lab. PjBL-1"
+            },
+            {
+              "time": "11.30-12.20",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO079N",
+              "lecturer": "Wendi Wirasta",
+              "room": "D115-Lab. PjBL-1"
+            },
+            {
+              "time": "13.00-13.50",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO079N",
+              "lecturer": "Wendi Wirasta",
+              "room": "D115-Lab. PjBL-1"
+            },
+            {
+              "time": "13.50-14.40",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO079N",
+              "lecturer": "Wendi Wirasta",
+              "room": "D115-Lab. PjBL-1"
+            }
+          ]
+        },
+        {
+          "day": "SELASA",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "TE",
+              "lecturer_code": "KO016N",
+              "lecturer": "Eddy B. Soewono",
+              "room": "D223-Kelas"
+            },
+            {
+              "time": "07.50-08.40",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "TE",
+              "lecturer_code": "KO016N",
+              "lecturer": "Eddy B. Soewono",
+              "room": "D223-Kelas"
+            },
+            {
+              "time": "08.40-09.30",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "PR",
+              "lecturer_code": "KO065N",
+              "lecturer": "Aprianti Nanda S",
+              "room": "D115-Lab. PjBL-1"
+            },
+            {
+              "time": "09.50-10.40",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "PR",
+              "lecturer_code": "KO065N",
+              "lecturer": "Aprianti Nanda S",
+              "room": "D115-Lab. PjBL-1"
+            },
+            {
+              "time": "10.40-11.30",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "TE",
+              "lecturer_code": "KO022N",
+              "lecturer": "Suprihanto",
+              "room": "D223-Kelas"
+            },
+            {
+              "time": "11.30-12.20",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "TE",
+              "lecturer_code": "KO022N",
+              "lecturer": "Suprihanto",
+              "room": "D223-Kelas"
+            },
+            {
+              "time": "13.00-13.50",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "PR",
+              "lecturer_code": "KO065N",
+              "lecturer": "Aprianti Nanda S",
+              "room": "D115-Lab. PjBL-1"
+            },
+            {
+              "time": "13.50-14.40",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "PR",
+              "lecturer_code": "KO065N",
+              "lecturer": "Aprianti Nanda S",
+              "room": "D115-Lab. PjBL-1"
+            }
+          ]
+        },
+        {
+          "day": "RABU",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25TI1102",
+              "course_name": "Komputasi Kognitif",
+              "type": "TE",
+              "lecturer_code": "KO018N",
+              "lecturer": "Jonner Hutahaean",
+              "room": "D223-Kelas"
+            },
+            {
+              "time": "07.50-08.40",
+              "course_code": "25TI1102",
+              "course_name": "Komputasi Kognitif",
+              "type": "TE",
+              "lecturer_code": "KO018N",
+              "lecturer": "Jonner Hutahaean",
+              "room": "D223-Kelas"
+            },
+            {
+              "time": "13.00-13.50",
+              "course_code": "25KU0002",
+              "course_name": "Pendidikan Pancasila",
+              "type": "TE",
+              "lecturer": "Tarekh Febriana Putra",
+              "room": "D223-Kelas"
+            },
+            {
+              "time": "13.50-14.40",
+              "course_code": "25KU0002",
+              "course_name": "Pendidikan Pancasila",
+              "type": "TE",
+              "lecturer": "Tarekh Febriana Putra",
+              "room": "D223-Kelas"
+            }
+          ]
+        },
+        {
+          "day": "KAMIS",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO070N",
+              "lecturer": "Djoko Cahyo U. L",
+              "room": "H501-Lab. TI"
+            },
+            {
+              "time": "07.50-08.40",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO070N",
+              "lecturer": "Djoko Cahyo U. L",
+              "room": "H501-Lab. TI"
+            },
+            {
+              "time": "08.40-09.30",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO070N",
+              "lecturer": "Djoko Cahyo U. L",
+              "room": "H501-Lab. TI"
+            },
+            {
+              "time": "09.50-10.40",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO070N",
+              "lecturer": "Djoko Cahyo U. L",
+              "room": "H501-Lab. TI"
+            },
+            {
+              "time": "13.00-13.50",
+              "course_code": "25IG1017",
+              "course_name": "Bahasa Inggris 1",
+              "type": "TE",
+              "lecturer": "Linda",
+              "room": "D223-Kelas"
+            },
+            {
+              "time": "13.50-14.40",
+              "course_code": "25IG1017",
+              "course_name": "Bahasa Inggris 1",
+              "type": "PR",
+              "lecturer": "Linda",
+              "room": "D223-Kelas"
+            },
+            {
+              "time": "14.40-15.30",
+              "course_code": "25IG1017",
+              "course_name": "Bahasa Inggris 1",
+              "type": "PR",
+              "lecturer": "Linda",
+              "room": "D223-Kelas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class_name": "1B-D4",
+      "schedule": [
+        {
+          "day": "SENIN",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "TE",
+              "lecturer_code": "KO002N",
+              "lecturer": "Ani Rahmani",
+              "room": "D224-Kelas"
+            },
+            {
+              "time": "07.50-08.40",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "TE",
+              "lecturer_code": "KO002N",
+              "lecturer": "Ani Rahmani",
+              "room": "D224-Kelas"
+            },
+            {
+              "time": "08.40-09.30",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "TE",
+              "lecturer_code": "KO003N",
+              "lecturer": "Bambang Wisnuadhi",
+              "room": "D224-Kelas"
+            },
+            {
+              "time": "09.50-10.40",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO067N",
+              "lecturer": "Asri Maspupah",
+              "room": "H502-Lab. AI"
+            },
+            {
+              "time": "10.40-11.30",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO067N",
+              "lecturer": "Asri Maspupah",
+              "room": "H502-Lab. AI"
+            },
+            {
+              "time": "11.30-12.20",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO067N",
+              "lecturer": "Asri Maspupah",
+              "room": "H502-Lab. AI"
+            },
+            {
+              "time": "13.00-13.50",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO067N",
+              "lecturer": "Asri Maspupah",
+              "room": "H502-Lab. AI"
+            }
+          ]
+        },
+        {
+          "day": "SELASA",
+          "sessions": [
+            {
+              "time": "08.40-09.30",
+              "course_code": "25TI1102",
+              "course_name": "Komputasi Kognitif",
+              "type": "TE",
+              "lecturer_code": "KO018N",
+              "lecturer": "Jonner Hutahaean",
+              "room": "D224-Kelas"
+            },
+            {
+              "time": "09.50-10.40",
+              "course_code": "25TI1102",
+              "course_name": "Komputasi Kognitif",
+              "type": "TE",
+              "lecturer_code": "KO018N",
+              "lecturer": "Jonner Hutahaean",
+              "room": "D224-Kelas"
+            },
+            {
+              "time": "10.40-11.30",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "PR",
+              "lecturer_code": "KO065N",
+              "lecturer": "Aprianti Nanda S",
+              "room": "D106-Lab. SDB"
+            },
+            {
+              "time": "11.30-12.20",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "PR",
+              "lecturer_code": "KO065N",
+              "lecturer": "Aprianti Nanda S",
+              "room": "D106-Lab. SDB"
+            },
+            {
+              "time": "13.00-13.50",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "TE",
+              "lecturer_code": "KO022N",
+              "lecturer": "Suprihanto",
+              "room": "D224-Kelas"
+            },
+            {
+              "time": "13.50-14.40",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "TE",
+              "lecturer_code": "KO022N",
+              "lecturer": "Suprihanto",
+              "room": "D224-Kelas"
+            }
+          ]
+        },
+        {
+          "day": "RABU",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25IG1017",
+              "course_name": "Bahasa Inggris 1",
+              "type": "TE",
+              "lecturer": "Faza",
+              "room": "D224-Kelas"
+            },
+            {
+              "time": "07.50-08.40",
+              "course_code": "25IG1017",
+              "course_name": "Bahasa Inggris 1",
+              "type": "PR",
+              "lecturer": "Faza",
+              "room": "D224-Kelas"
+            },
+            {
+              "time": "08.40-09.30",
+              "course_code": "25IG1017",
+              "course_name": "Bahasa Inggris 1",
+              "type": "PR",
+              "lecturer": "Faza",
+              "room": "D224-Kelas"
+            },
+            {
+              "time": "13.00-13.50",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO070N",
+              "lecturer": "Djoko Cahyo U. L",
+              "room": "H501-Lab. TI"
+            },
+            {
+              "time": "13.50-14.40",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO070N",
+              "lecturer": "Djoko Cahyo U. L",
+              "room": "H501-Lab. TI"
+            },
+            {
+              "time": "14.40-15.30",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO070N",
+              "lecturer": "Djoko Cahyo U. L",
+              "room": "H501-Lab. TI"
+            },
+            {
+              "time": "15.50-16.40",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO070N",
+              "lecturer": "Djoko Cahyo U. L",
+              "room": "H501-Lab. TI"
+            }
+          ]
+        },
+        {
+          "day": "KAMIS",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "TE",
+              "lecturer_code": "KO016N",
+              "lecturer": "Eddy B. Soewono",
+              "room": "D224-Kelas"
+            },
+            {
+              "time": "07.50-08.40",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "TE",
+              "lecturer_code": "KO016N",
+              "lecturer": "Eddy B. Soewono",
+              "room": "D224-Kelas"
+            },
+            {
+              "time": "08.40-09.30",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "PR",
+              "lecturer_code": "KO065N",
+              "lecturer": "Aprianti Nanda S",
+              "room": "D102-Lab. MT"
+            },
+            {
+              "time": "09.50-10.40",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "PR",
+              "lecturer_code": "KO065N",
+              "lecturer": "Aprianti Nanda S",
+              "room": "D102-Lab. MT"
+            },
+            {
+              "time": "10.40-11.30",
+              "course_code": "25KU0002",
+              "course_name": "Pendidikan Pancasila",
+              "type": "TE",
+              "lecturer_code": "KO082N",
+              "lecturer": "Cahaya Juniarti",
+              "room": "D224-Kelas"
+            },
+            {
+              "time": "11.30-12.20",
+              "course_code": "25KU0002",
+              "course_name": "Pendidikan Pancasila",
+              "type": "TE",
+              "lecturer_code": "KO082N",
+              "lecturer": "Cahaya Juniarti",
+              "room": "D224-Kelas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class_name": "1C-D4",
+      "schedule": [
+        {
+          "day": "SENIN",
+          "sessions": [
+            {
+              "time": "08.40-09.30",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "TE",
+              "lecturer_code": "KO003N",
+              "lecturer": "Bambang Wisnuadhi",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "14.40-15.30",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO079N",
+              "lecturer": "Wendi Wirasta",
+              "room": "D107-Lab. RPL"
+            },
+            {
+              "time": "15.50-16.40",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO079N",
+              "lecturer": "Wendi Wirasta",
+              "room": "D107-Lab. RPL"
+            },
+            {
+              "time": "16.40-17.30",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO079N",
+              "lecturer": "Wendi Wirasta",
+              "room": "D107-Lab. RPL"
+            },
+            {
+              "time": "17.30-18.20",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO079N",
+              "lecturer": "Wendi Wirasta",
+              "room": "D107-Lab. RPL"
+            }
+          ]
+        },
+        {
+          "day": "SELASA",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "TE",
+              "lecturer_code": "KO013N",
+              "lecturer": "Yudi Widhiyasana",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "07.50-08.40",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "TE",
+              "lecturer_code": "KO013N",
+              "lecturer": "Yudi Widhiyasana",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "09.50-10.40",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "PR",
+              "lecturer_code": "KO075N; KO074N",
+              "lecturer": "Siti Dwi Setiarini;Muhammad Rizqi S",
+              "room": "D116-Lab. PjBL-2"
+            },
+            {
+              "time": "10.40-11.30",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "PR",
+              "lecturer_code": "KO075N; KO074N",
+              "lecturer": "Siti Dwi Setiarini;Muhammad Rizqi S",
+              "room": "D116-Lab. PjBL-2"
+            },
+            {
+              "time": "13.00-13.50",
+              "course_code": "25TI1102",
+              "course_name": "Komputasi Kognitif",
+              "type": "TE",
+              "lecturer_code": "KO002N",
+              "lecturer": "Ani Rahmani",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "13.50-14.40",
+              "course_code": "25TI1102",
+              "course_name": "Komputasi Kognitif",
+              "type": "TE",
+              "lecturer_code": "KO002N",
+              "lecturer": "Ani Rahmani",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "15.50-16.40",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "PR",
+              "lecturer_code": "KO065N",
+              "lecturer": "Aprianti Nanda S",
+              "room": "D107-Lab. RPL"
+            },
+            {
+              "time": "16.40-17.30",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "PR",
+              "lecturer_code": "KO065N",
+              "lecturer": "Aprianti Nanda S",
+              "room": "D107-Lab. RPL"
+            }
+          ]
+        },
+        {
+          "day": "RABU",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "TE",
+              "lecturer_code": "KO016N",
+              "lecturer": "Eddy B. Soewono",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "07.50-08.40",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "TE",
+              "lecturer_code": "KO016N",
+              "lecturer": "Eddy B. Soewono",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "09.50-10.40",
+              "course_code": "25IG1017",
+              "course_name": "Bahasa Inggris 1",
+              "type": "TE",
+              "lecturer": "Faza",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "10.40-11.30",
+              "course_code": "25IG1017",
+              "course_name": "Bahasa Inggris 1",
+              "type": "PR",
+              "lecturer": "Faza",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "11.30-12.20",
+              "course_code": "25IG1017",
+              "course_name": "Bahasa Inggris 1",
+              "type": "PR",
+              "lecturer": "Faza",
+              "room": "D217-Kelas"
+            }
+          ]
+        },
+        {
+          "day": "KAMIS",
+          "sessions": [
+            {
+              "time": "08.40-09.30",
+              "course_code": "25KU0002",
+              "course_name": "Pendidikan Pancasila",
+              "type": "TE",
+              "lecturer_code": "KO081N",
+              "lecturer": "Tarekh Febriana Putra",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "09.50-10.40",
+              "course_code": "25KU0002",
+              "course_name": "Pendidikan Pancasila",
+              "type": "TE",
+              "lecturer_code": "KO081N",
+              "lecturer": "Tarekh Febriana Putra",
+              "room": "D217-Kelas"
+            }
+          ]
+        },
+        {
+          "day": "JUMAT",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "TE",
+              "lecturer_code": "KO001N",
+              "lecturer": "Ade Chandra Nugraha",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "07.50-08.40",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "TE",
+              "lecturer_code": "KO001N",
+              "lecturer": "Ade Chandra Nugraha",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "13.00-13.50",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO045N",
+              "lecturer": "Irwan Setiawan",
+              "room": "D107-Lab. RPL"
+            },
+            {
+              "time": "13.50-14.40",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO045N",
+              "lecturer": "Irwan Setiawan",
+              "room": "D107-Lab. RPL"
+            },
+            {
+              "time": "14.40-15.30",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO045N",
+              "lecturer": "Irwan Setiawan",
+              "room": "D107-Lab. RPL"
+            },
+            {
+              "time": "15.50-16.40",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO045N",
+              "lecturer": "Irwan Setiawan",
+              "room": "D107-Lab. RPL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class_name": "1D-D4",
+      "schedule": [
+        {
+          "day": "SENIN",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "TE",
+              "lecturer_code": "KO001N",
+              "lecturer": "Ade Chandra Nugraha",
+              "room": "D219-Kelas"
+            },
+            {
+              "time": "07.50-08.40",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "TE",
+              "lecturer_code": "KO001N",
+              "lecturer": "Ade Chandra Nugraha",
+              "room": "D219-Kelas"
+            },
+            {
+              "time": "08.40-09.30",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO060N",
+              "lecturer": "Ade Hodijah",
+              "room": "H501-Lab. TI"
+            },
+            {
+              "time": "09.50-10.40",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO060N",
+              "lecturer": "Ade Hodijah",
+              "room": "H501-Lab. TI"
+            },
+            {
+              "time": "10.40-11.30",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO060N",
+              "lecturer": "Ade Hodijah",
+              "room": "H501-Lab. TI"
+            },
+            {
+              "time": "11.30-12.20",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "PR",
+              "lecturer_code": "KO060N",
+              "lecturer": "Ade Hodijah",
+              "room": "H501-Lab. TI"
+            },
+            {
+              "time": "13.00-13.50",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "TE",
+              "lecturer_code": "KO003N",
+              "lecturer": "Bambang Wisnuadhi",
+              "room": "D219-Kelas"
+            }
+          ]
+        },
+        {
+          "day": "SELASA",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "PR",
+              "lecturer_code": "KO075N; KO074N",
+              "lecturer": "Siti Dwi Setiarini;Muhammad Rizqi S",
+              "room": "D115-Lab. PjBL-1"
+            },
+            {
+              "time": "07.50-08.40",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "PR",
+              "lecturer_code": "KO075N; KO074N",
+              "lecturer": "Siti Dwi Setiarini;Muhammad Rizqi S",
+              "room": "D115-Lab. PjBL-1"
+            },
+            {
+              "time": "10.40-11.30",
+              "course_code": "25TI1102",
+              "course_name": "Komputasi Kognitif",
+              "type": "TE",
+              "lecturer_code": "KO002N",
+              "lecturer": "Ani Rahmani",
+              "room": "D219-Kelas"
+            },
+            {
+              "time": "11.30-12.20",
+              "course_code": "25TI1102",
+              "course_name": "Komputasi Kognitif",
+              "type": "TE",
+              "lecturer_code": "KO002N",
+              "lecturer": "Ani Rahmani",
+              "room": "D219-Kelas"
+            },
+            {
+              "time": "13.50-14.40",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "TE",
+              "lecturer_code": "KO013N",
+              "lecturer": "Yudi Widhiyasana",
+              "room": "D219-Kelas"
+            },
+            {
+              "time": "14.40-15.30",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "TE",
+              "lecturer_code": "KO013N",
+              "lecturer": "Yudi Widhiyasana",
+              "room": "D219-Kelas"
+            }
+          ]
+        },
+        {
+          "day": "RABU",
+          "sessions": [
+            {
+              "time": "14.40-15.30",
+              "course_code": "25KU0002",
+              "course_name": "Pendidikan Pancasila",
+              "type": "TE",
+              "lecturer_code": "KO082N",
+              "lecturer": "Cahaya Juniarti",
+              "room": "D219-Kelas"
+            },
+            {
+              "time": "15.50-16.40",
+              "course_code": "25KU0002",
+              "course_name": "Pendidikan Pancasila",
+              "type": "TE",
+              "lecturer_code": "KO082N",
+              "lecturer": "Cahaya Juniarti",
+              "room": "D219-Kelas"
+            },
+            {
+              "time": "16.40-17.30",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "PR",
+              "lecturer_code": "KO065N",
+              "lecturer": "Aprianti Nanda S",
+              "room": "D115-Lab. PjBL-1"
+            },
+            {
+              "time": "17.30-18.20",
+              "course_code": "25TI1104",
+              "course_name": "Matematika Diskrit Dasar",
+              "type": "PR",
+              "lecturer_code": "KO065N",
+              "lecturer": "Aprianti Nanda S",
+              "room": "D115-Lab. PjBL-1"
+            }
+          ]
+        },
+        {
+          "day": "KAMIS",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "TE",
+              "lecturer_code": "KO016N",
+              "lecturer": "Eddy B. Soewono",
+              "room": "D219-Kelas"
+            },
+            {
+              "time": "07.50-08.40",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
+              "type": "TE",
+              "lecturer_code": "KO016N",
+              "lecturer": "Eddy B. Soewono",
+              "room": "D219-Kelas"
+            },
+            {
+              "time": "09.50-10.40",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO045N",
+              "lecturer": "Irwan Setiawan",
+              "room": "D115-Lab. PjBL-1"
+            },
+            {
+              "time": "10.40-11.30",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO045N",
+              "lecturer": "Irwan Setiawan",
+              "room": "D115-Lab. PjBL-1"
+            },
+            {
+              "time": "11.30-12.20",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO045N",
+              "lecturer": "Irwan Setiawan",
+              "room": "D115-Lab. PjBL-1"
+            },
+            {
+              "time": "15.50-16.40",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO045N",
+              "lecturer": "Irwan Setiawan",
+              "room": "D115-Lab. PjBL-1"
+            }
+          ]
+        },
+        {
+          "day": "JUMAT",
+          "sessions": [
+            {
+              "time": "07.00-07.50",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "TE",
+              "lecturer_code": "KO001N",
+              "lecturer": "Ade Chandra Nugraha",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "07.50-08.40",
+              "course_code": "25TI1101",
+              "course_name": "Dasar-Dasar Pemrograman",
+              "type": "TE",
+              "lecturer_code": "KO001N",
+              "lecturer": "Ade Chandra Nugraha",
+              "room": "D217-Kelas"
+            },
+            {
+              "time": "13.00-13.50",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO045N",
+              "lecturer": "Irwan Setiawan",
+              "room": "D107-Lab. RPL"
+            },
+            {
+              "time": "13.50-14.40",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO045N",
+              "lecturer": "Irwan Setiawan",
+              "room": "D107-Lab. RPL"
+            },
+            {
+              "time": "14.40-15.30",
+              "course_code": "25TI1103",
+              "course_name": "Konsep Teknologi Informasi dan Komunikasi",
+              "type": "PR",
+              "lecturer_code": "KO045N",
+              "lecturer": "Irwan Setiawan",
+              "room": "D107-Lab. RPL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
