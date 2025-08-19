@@ -12,7 +12,7 @@ router
     context.response.body = "JTK25 Jadwal API";
   })
   .get("/download/:version", async (context) => {
-    const version = context.params.version;
+    const version = context.params.version.replace(".apk", "");
     // Sanitize version parameter to ensure it's a float only
     if (!/^\d+(\.\d+)?$/.test(version)) {
       context.response.status = 400;
