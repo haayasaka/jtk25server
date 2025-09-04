@@ -910,21 +910,21 @@
           "day": "RABU",
           "sessions": [
             {
-              "time": "14.40-15.30",
-              "course_code": "25KU0002",
-              "course_name": "Pendidikan Pancasila",
+              "time": "8.40-9.30",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
               "type": "TE",
-              "lecturer_code": "KO082N",
-              "lecturer": "Cahaya Juniarti",
+              "lecturer_code": "KO016N",
+              "lecturer": "Eddy B. Soewono",
               "room": "D219-Kelas"
             },
             {
-              "time": "15.50-16.40",
-              "course_code": "25KU0002",
-              "course_name": "Pendidikan Pancasila",
+              "time": "9.50-10.40",
+              "course_code": "25KU1008",
+              "course_name": "Matematika Terapan A",
               "type": "TE",
-              "lecturer_code": "KO082N",
-              "lecturer": "Cahaya Juniarti",
+              "lecturer_code": "KO016N",
+              "lecturer": "Eddy B. Soewono",
               "room": "D219-Kelas"
             }
           ]
@@ -950,22 +950,23 @@
               "lecturer": "Aprianti Nanda S",
               "room": "D115-Lab. PjBL-1"
             },
+
             {
-              "time": "10.40-11.30",
-              "course_code": "25KU1008",
-              "course_name": "Matematika Terapan A",
+              "time": "8.40-9.30",
+              "course_code": "25KU0002",
+              "course_name": "Pendidikan Pancasila",
               "type": "TE",
-              "lecturer_code": "KO016N",
-              "lecturer": "Eddy B. Soewono",
+              "lecturer_code": "KO082N",
+              "lecturer": "Cahaya Juniarti",
               "room": "D219-Kelas"
             },
             {
-              "time": "11.30-12.20",
-              "course_code": "25KU1008",
-              "course_name": "Matematika Terapan A",
+              "time": "9.50-10.40",
+              "course_code": "25KU0002",
+              "course_name": "Pendidikan Pancasila",
               "type": "TE",
-              "lecturer_code": "KO016N",
-              "lecturer": "Eddy B. Soewono",
+              "lecturer_code": "KO082N",
+              "lecturer": "Cahaya Juniarti",
               "room": "D219-Kelas"
             },
             {
