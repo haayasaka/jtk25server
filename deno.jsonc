@@ -1,1 +1,15 @@
-{}
+{
+  "imports": {
+    "oak": "jsr:@oak/oak@^17.1.4",
+    "cors": "https://deno.land/x/cors/mod.ts"
+  },
+  "tasks": {
+    "dev": "deno run --allow-net --allow-read --watch main.ts"
+  },
+  "fmt": {
+    "indentWidth": 2,
+    "lineWidth": 80,
+    "semiColons": true,
+    "singleQuote": false
+  }
+}

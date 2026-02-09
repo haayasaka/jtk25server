@@ -1,9 +1,40 @@
 import { Application, Router } from "https://deno.land/x/oak/mod.ts";
 import { oakCors } from "https://deno.land/x/cors/mod.ts";
 
-const schedulesData = JSON.parse(
-  await Deno.readTextFile("./data/schedules.json"),
-);
+// Daftar file jadwal per kelas
+const scheduleFiles = [
+  "./data/schedules_1A_D4.json",
+  "./data/schedules_1B_D4.json",
+  "./data/schedules_1C_D4.json",
+  "./data/schedules_1D_D4.json",
+  "./data/schedules_1A_D3.json",
+  "./data/schedules_1B_D3.json",
+];
+
+// Baca semua file jadwal dan gabungkan
+const loadSchedules = async () => {
+  const classes = await Promise.all(
+    scheduleFiles.map(async (file) => {
+      const data = JSON.parse(await Deno.readTextFile(file));
+      return {
+        class_name: data.class_name,
+        schedule: data.schedule,
+      };
+    }),
+  );
+
+  // Ambil metadata dari file pertama
+  const firstFile = JSON.parse(await Deno.readTextFile(scheduleFiles[0]));
+
+  return {
+    academic_year: firstFile.academic_year,
+    semester: firstFile.semester,
+    curriculum: firstFile.curriculum,
+    classes,
+  };
+};
+
+const schedulesData = await loadSchedules();
 
 const router = new Router();
 router

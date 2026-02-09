@@ -1,0 +1,285 @@
+{
+  "academic_year": "2025/2026",
+  "semester": "GENAP",
+  "curriculum": "2025",
+  "class_name": "1C-D4",
+  "schedule": [
+    {
+      "day": "SENIN",
+      "sessions": [
+        {
+          "time": "08.40-09.30",
+          "course_code": "25KU1009",
+          "course_name": "Matematika Terapan B",
+          "type": "TE",
+          "lecturer_code": "KO075N",
+          "lecturer": "Siti Dwi Setiarini",
+          "room": "D111-Kelas"
+        },
+        {
+          "time": "09.50-10.40",
+          "course_code": "25KU1009",
+          "course_name": "Matematika Terapan B",
+          "type": "TE",
+          "lecturer_code": "KO075N",
+          "lecturer": "Siti Dwi Setiarini",
+          "room": "D111-Kelas"
+        },
+        {
+          "time": "10.40-11.30",
+          "course_code": "25TI1105",
+          "course_name": "Struktur Data dan Algoritma",
+          "type": "PR",
+          "lecturer_code": "KO060N",
+          "lecturer": "Ade Hodijah",
+          "room": "D102-Lab. MT"
+        },
+        {
+          "time": "11.30-12.20",
+          "course_code": "25TI1105",
+          "course_name": "Struktur Data dan Algoritma",
+          "type": "PR",
+          "lecturer_code": "KO060N",
+          "lecturer": "Ade Hodijah",
+          "room": "D102-Lab. MT"
+        },
+        {
+          "time": "13.00-13.50",
+          "course_code": "25TI1106",
+          "course_name": "Proyek 1 : Pengembangan Perangkat Lunak Desktop",
+          "type": "PR",
+          "lecturer_code": "KO0405N.KO0608N.KO056N",
+          "lecturer": "Irwan Setiawan, Beri N.İda Suhartini",
+          "room": "D116-Lab. PjBL-2"
+        },
+        {
+          "time": "13.50-14.40",
+          "course_code": "25TI1106",
+          "course_name": "Proyek 1 : Pengembangan Perangkat Lunak Desktop",
+          "type": "PR",
+          "lecturer_code": "KO0405N.KO0608N.KO056N",
+          "lecturer": "Irwan Setiawan, Beri N.İda Suhartini",
+          "room": "D116-Lab. PjBL-2"
+        },
+        {
+          "time": "14.40-15.30",
+          "course_code": "25TI1106",
+          "course_name": "Proyek 1 : Pengembangan Perangkat Lunak Desktop",
+          "type": "PR",
+          "lecturer_code": "KO0405N.KO0608N.KO056N",
+          "lecturer": "Irwan Setiawan, Beri N.İda Suhartini",
+          "room": "D116-Lab. PjBL-2"
+        },
+        {
+          "time": "15.50-16.40",
+          "course_code": "25TI1106",
+          "course_name": "Proyek 1 : Pengembangan Perangkat Lunak Desktop",
+          "type": "PR",
+          "lecturer_code": "KO0405N.KO0608N.KO056N",
+          "lecturer": "Irwan Setiawan, Beri N.İda Suhartini",
+          "room": "D116-Lab. PjBL-2"
+        },
+        {
+          "time": "16.40-17.30",
+          "course_code": "25TI1106",
+          "course_name": "Proyek 1 : Pengembangan Perangkat Lunak Desktop",
+          "type": "PR",
+          "lecturer_code": "KO0405N.KO0608N.KO056N",
+          "lecturer": "Irwan Setiawan, Beri N.İda Suhartini",
+          "room": "D116-Lab. PjBL-2"
+        },
+        {
+          "time": "17.30-18.20",
+          "course_code": "25TI1106",
+          "course_name": "Proyek 1 : Pengembangan Perangkat Lunak Desktop",
+          "type": "PR",
+          "lecturer_code": "KO0405N.KO0608N.KO056N",
+          "lecturer": "Irwan Setiawan, Beri N.İda Suhartini",
+          "room": "D116-Lab. PjBL-2"
+        }
+      ]
+    },
+    {
+      "day": "SELASA",
+      "sessions": [
+        {
+          "time": "07.00-07.50",
+          "course_code": "25TI1105",
+          "course_name": "Struktur Data dan Algoritma",
+          "type": "TE",
+          "lecturer_code": "KO001N",
+          "lecturer": "Ade Chandra Nugraha",
+          "room": "D112-Kelas"
+        },
+        {
+          "time": "07.50-08.40",
+          "course_code": "25TI1105",
+          "course_name": "Struktur Data dan Algoritma",
+          "type": "TE",
+          "lecturer_code": "KO001N",
+          "lecturer": "Ade Chandra Nugraha",
+          "room": "D112-Kelas"
+        }
+      ]
+    },
+    {
+      "day": "RABU",
+      "sessions": [
+        {
+          "time": "07.00-07.50",
+          "course_code": "25IG1018",
+          "course_name": "Bahasa Inggris 2",
+          "type": "TE",
+          "lecturer_code": "IG041N",
+          "lecturer": "Faza Hannan Purinanda",
+          "room": "D224-Kelas"
+        },
+        {
+          "time": "07.50-08.40",
+          "course_code": "25IG1018",
+          "course_name": "Bahasa Inggris 2",
+          "type": "PR",
+          "lecturer_code": "IG041N",
+          "lecturer": "Faza Hannan Purinanda",
+          "room": "D224-Kelas"
+        },
+        {
+          "time": "08.40-09.30",
+          "course_code": "25IG1018",
+          "course_name": "Bahasa Inggris 2",
+          "type": "PR",
+          "lecturer_code": "IG041N",
+          "lecturer": "Faza Hannan Purinanda",
+          "room": "D224-Kelas"
+        },
+        {
+          "time": "10.40-11.30",
+          "course_code": "25KU1001",
+          "course_name": "Pendidikan Agama",
+          "type": "TE",
+          "lecturer_code": "DU094N",
+          "lecturer": "Waway Qodratullah S",
+          "room": "H506-Kelas"
+        },
+        {
+          "time": "11.30-12.20",
+          "course_code": "25KU1001",
+          "course_name": "Pendidikan Agama",
+          "type": "TE",
+          "lecturer_code": "DU094N",
+          "lecturer": "Waway Qodratullah S",
+          "room": "H506-Kelas"
+        },
+        {
+          "time": "13.50-14.40",
+          "course_code": "25KU1007",
+          "course_name": "Bahasa Indonesia",
+          "type": "TE",
+          "lecturer_code": "DU138P",
+          "lecturer": "Topik Mulyana",
+          "room": "H504-Kelas"
+        },
+        {
+          "time": "14.40-15.30",
+          "course_code": "25KU1007",
+          "course_name": "Bahasa Indonesia",
+          "type": "TE",
+          "lecturer_code": "DU138P",
+          "lecturer": "Topik Mulyana",
+          "room": "H504-Kelas"
+        }
+      ]
+    },
+    {
+      "day": "KAMIS",
+      "sessions": [
+        {
+          "time": "07.50-08.40",
+          "course_code": "25TI1107",
+          "course_name": "Teknik Pemrograman",
+          "type": "PR",
+          "lecturer_code": "KO061N",
+          "lecturer": "Zulkifli Arsyad",
+          "room": "D106-Lab. SDB"
+        },
+        {
+          "time": "08.40-09.30",
+          "course_code": "25TI1107",
+          "course_name": "Teknik Pemrograman",
+          "type": "PR",
+          "lecturer_code": "KO061N",
+          "lecturer": "Zulkifli Arsyad",
+          "room": "D106-Lab. SDB"
+        },
+        {
+          "time": "09.50-10.40",
+          "course_code": "25TI1107",
+          "course_name": "Teknik Pemrograman",
+          "type": "PR",
+          "lecturer_code": "KO061N",
+          "lecturer": "Zulkifli Arsyad",
+          "room": "D106-Lab. SDB"
+        },
+        {
+          "time": "10.40-11.30",
+          "course_code": "25TI1107",
+          "course_name": "Teknik Pemrograman",
+          "type": "PR",
+          "lecturer_code": "KO061N",
+          "lecturer": "Zulkifli Arsyad",
+          "room": "D106-Lab. SDB"
+        },
+        {
+          "time": "11.30-12.20",
+          "course_code": "25TI1105",
+          "course_name": "Struktur Data dan Algoritma",
+          "type": "PR",
+          "lecturer_code": "KO079N",
+          "lecturer": "Wendi Wirasta",
+          "room": "D106-Lab. SDB"
+        },
+        {
+          "time": "13.50-14.40",
+          "course_code": "25TI1105",
+          "course_name": "Struktur Data dan Algoritma",
+          "type": "PR",
+          "lecturer_code": "KO079N",
+          "lecturer": "Wendi Wirasta",
+          "room": "D106-Lab. SDB"
+        },
+        {
+          "time": "14.40-15.30",
+          "course_code": "25TI1105",
+          "course_name": "Struktur Data dan Algoritma",
+          "type": "PR",
+          "lecturer_code": "KO079N",
+          "lecturer": "Wendi Wirasta",
+          "room": "D106-Lab. SDB"
+        }
+      ]
+    },
+    {
+      "day": "JUMAT",
+      "sessions": [
+        {
+          "time": "13.50-14.40",
+          "course_code": "25TI1107",
+          "course_name": "Teknik Pemrograman",
+          "type": "TE",
+          "lecturer_code": "KO007N",
+          "lecturer": "Joe Lian Min",
+          "room": "D111-Kelas"
+        },
+        {
+          "time": "14.40-15.30",
+          "course_code": "25TI1107",
+          "course_name": "Teknik Pemrograman",
+          "type": "TE",
+          "lecturer_code": "KO007N",
+          "lecturer": "Joe Lian Min",
+          "room": "D111-Kelas"
+        }
+      ]
+    }
+  ]
+}
